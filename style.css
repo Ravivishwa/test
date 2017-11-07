@@ -1,0 +1,183 @@
+/*@media screen and (max-width : 760px);*/
+
+
+.Logo {
+  background-image: url("images/Logo.png");
+  position: absolute;
+  left: 192px;
+  top: 2px;
+  width: 117px;
+  height: 80px;
+  z-index: 171;
+}
+
+
+.Set_as_Homepage_Bg {
+  background-image: url("images/Set as Homepage Bg.png");
+  position: absolute;
+  left: 853px;
+  top: 0px;
+  width: 318px;
+  height: 19px;
+  z-index: 176;
+}
+.Set_as_Homepage__________Add_as_Bookmark_______  a {
+  font-size: 12px;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, sans-serif;
+
+  color: white;
+  line-height: 0.1;
+  text-align: left;
+  /*position: absolute;*/
+  /*left: 860.134px;*/
+  top: 12.25px;
+  width: 296px;
+  height: 14px;
+  z-index: 177;
+  margin-left: 10px;
+  
+
+}
+.Background {
+  background-image: -moz-linear-gradient( 90deg, rgb(255,255,255) 0%, rgb(196,240,101) 37%, rgb(255,255,255) 61%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(255,255,255) 0%, rgb(196,240,101) 37%, rgb(255,255,255) 61%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(255,255,255) 0%, rgb(196,240,101) 37%, rgb(255,255,255) 61%, rgb(255,255,255) 100%);
+  position: absolute;
+  left: -4px;
+  margin-top:150px;
+  width: 100%;
+  min-height: 800px;
+  z-index: 4;
+}
+._960_px {
+  background-color: white;
+  position: absolute;
+  left: 192px;
+  top: -5px;
+  width: 980px;
+  height: 1100px;
+  z-index: 5;
+}
+.dot {
+  background-image: url("images/dot.png");
+  position: absolute;
+  left: -4px;
+  top: 9px;
+  width: 100%;
+  height: 602px;
+  z-index: 6;
+}
+.dot_copy {
+  background-image: url("images/dot copy.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 732px;
+  z-index: 7;
+}
+
+.Nav_Bar_Bg {
+  background-image: -moz-linear-gradient( 90deg, rgb(138,138,138) 0%, rgb(212,212,212) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(138,138,138) 0%, rgb(212,212,212) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(138,138,138) 0%, rgb(212,212,212) 100%);
+  position: absolute;
+  left: 192px;
+  top: 90px;
+  width: 980px;
+  height: 35px;
+  z-index:157;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 8px 35px;
+  text-decoration: none;
+  font-size: 17px;
+  /*z-index: -1;*/
+}
+.vl {
+    border-left: 2px solid white;
+    height: 33px;
+     float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 8px -1px;
+  text-decoration: none;
+  font-size: 17px;
+   
+}
+.activee{
+		background-image: url("images/HomeBg.png");
+		/*top: -50px;*/
+		height: 35px
+		/*width:600px;*/
+	}
+
+
+
+/*???????????????*/
+.carousel-indicators-numbers {
+    li {
+      text-indent: 0;
+      margin: 0 2px;
+      width: 30px;
+      height: 30px;
+      border: none;
+      border-radius: 100%;
+      line-height: 30px;
+      color: #fff;
+      background-color: #999;
+      transition: all 0.25s ease;
+      &.active, &:hover {
+        margin: 0 2px;
+        width: 30px;
+        height: 30px;
+        background-color: #337ab7;        
+      }
+    }
+}
+
+/*/////////////////map*/
+ #map {
+      	top: 25px;
+        height: 480px;
+        width: 662px  
+        /*left:50px;*/
+      }
+      /* Optional: Makes the sample page fill the window. */
+    /*  html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        width: 500px
+      }*/
+      #floating-panel {
+        position: absolute;
+        top: 70px;
+        left:3.5%;
+        z-index: 5;
+        background-color: #fff;
+        padding: 5px;
+        border: 1px solid #999;
+        text-align: center;
+        font-family: 'Roboto','sans-serif';
+        line-height: 30px;
+        padding-left: 10px;
+      }
+
+.ba {
+  background-image: url("images/310px.png");
+  /*position: absolute;*/
+  /*left: 251px;*/
+  /*top: 499px;*/
+  width: 100px;
+  height: 512px;
+  /*z-index: 10;*/
+
+}
+
